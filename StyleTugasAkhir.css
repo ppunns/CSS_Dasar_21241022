@@ -1,0 +1,57 @@
+* {
+    font-family: "Courier New", Courier, monospace;
+
+  }
+
+  body {
+    margin: 0 90px 0 90px;
+    background-image: url(img/doors_lockers_retro_120760_1280x720.jpg);
+    background-repeat: repeat;
+    background-position: top top;
+  }
+
+  #Judul {
+    color: goldenrod;
+    font-variant: normal;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  #Penulis {
+    color: #e0e0e0;
+    background-color: brown;
+    font-size: 20px;
+    font-style: italic;
+  }
+
+  .isi {
+    line-height: 2em;
+    letter-spacing: 0.2px;
+    font-weight: lighter;
+    text-indent: 30px;
+    word-spacing: 1%;
+  }
+
+  table thead {
+    background-color: rgb(161, 0, 0);
+    color: #e0e0e0;
+  }
+
+  a {
+    color: black;
+    text-decoration: none;
+  }
+
+  #next:visited {
+    color: white;
+  }
+
+  table tbody tr .pilih:hover {
+    background-color: #e0e0e0;
+    color: white;
+  }
+
+  table tbody tr td ul li .linkme:active {
+    background-color: blue;
+    color: #e0e0e0;
+  }
